@@ -1,17 +1,17 @@
-# hafizlab
+# HafizLab 📖✨
 
-HafizLab
+HafizLab is an interactive, gamified educational application designed to make Quran memorization (starting with Juz 30) a fun and engaging experience. 
 
-## Getting Started
+Built with the goal of turning traditional memorization into an exciting journey, HafizLab blends learning with game mechanics. Users can test their memory through various challenges, climb the ranks, and track their progress seamlessly.
 
-This project is a starting point for a Flutter application.
+### 🚀 Key Features
+*   **Campaign Mode:** A step-by-step adventure to complete surahs with a star-rating reward system.
+*   **Endless Quiz:** Challenge your limits with "Guess the Surah" and "Guess the Ayah" modes.
+*   **Dynamic Leaderboard:** Compete with other users for the highest score in real-time.
+*   **Secure Authentication:** Safe user login, registration, and OTP-based password recovery.
 
-A few resources to get you started if this is your first Flutter project:
+### 💻 Tech Stack
+*   **Front-End:** Flutter (Dart)
+*   **Back-End:** Native PHP & MySQL (REST API)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*This project is currently in its Minimum Viable Product (MVP) stage and is continuously being improved.*
